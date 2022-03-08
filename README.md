@@ -16,7 +16,7 @@ A simple Assembly Debugger emulator in the windows console (CMD/ Powershell), bu
 
 ## Installation ⬇️
 
-+ Download and extract [ASMEMU.rar](ASMEMU.rar)
++ Download and extract [ASMEMU.rar](https://github.com/Abd-Beltaji/ASMEMU/raw/master/ASMEMU.rar)
 + Run `install.bat` as an administrator
 + Wait until installation is completed
 
