@@ -1,6 +1,5 @@
 install.bat
 excludedfileslist.txt
-.bat
 .txt
 .key
 .zip
