@@ -12,7 +12,7 @@
 
 ## About ℹ️
 
-A simple Assembly Debugger emulator in the windows console (CMD/ Powershell), built using [_MSDOS debugger_](https://en.wikipedia.org/wiki/Debug_(command)) and [_MS-DOS Emulator_](http://takeda-toshiya.my.coocan.jp/msdos/), [_JWASM_]([sd](https://github.com/JWasm/JWasm)) is also used for Assembly compilation.
+A simple Assembly Debugger emulator in the windows console (CMD/ Powershell), built using [_MSDOS debugger_](https://en.wikipedia.org/wiki/Debug_(command)) and [_MS-DOS Emulator_](http://takeda-toshiya.my.coocan.jp/msdos/), [_JWASM_](https://github.com/JWasm/JWasm) is also used for Assembly compilation.
 
 ## Installation ⬇️
 
