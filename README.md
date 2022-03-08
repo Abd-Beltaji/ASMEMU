@@ -22,7 +22,7 @@ A simple Assembly Debugger emulator in the windows console (CMD/ Powershell), bu
 
 ## Usage 🔩
 
-+ From any from CMD/ Powershell or any integrated teminal that utilizres either of them, run the command: `ASMEMU`
++ From CMD/ Powershell or any integrated teminal that utilizres either of them, run the command: `ASMEMU`
 
 <p>
 <pre style="background-color:#111; color:#999;">
