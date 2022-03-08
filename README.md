@@ -2,7 +2,7 @@
 
 <p style="text-align:center;">
 <pre style=" background-color: #111;text-align:center; font-weight:900; color: white;border-radius:15px;">
-<span style="color:cyan"> _   __  _   _  </span><span style="color:magenta">___  _   _  _ _</span>
+<span style="color:cyan">  _   __  _   _  </span><span style="color:magenta">___  _   _  _ _</span>
 <span style="color:cyan"> / \ / _|| \_/ |</span><span style="color:magenta">| __|| \_/ || | |</span>
 <span style="color:cyan">| o |\_ \| \_/ |</span><span style="color:magenta">| _| | \_/ || U |</span>
 <span style="color:cyan">|_n_||__/|_| |_|</span><span style="color:magenta">|___||_| |_||___|</span>
